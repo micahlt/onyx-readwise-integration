@@ -1,3 +1,5 @@
-# Scribd Readwise Integration
+# Onyx Readwise Integration
 
-This is a Manifest v3 Chrome Extension with the ability to send highlights from a Scribd book to your Readwise account.  Simply go to the Scribd book, click the extension icon, and click the "Export to Readwise" button.  In contrast, [here's the way Readwise asks you to import from Scribd](https://help.readwise.io/article/83-how-do-i-import-highlights-from-scribd).
+[![https://chromewebstore.google.com/detail/onyx-readwise-integration/cjgbhgadmoolcfponpofionanoamaooa](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/tbyBjqi7Zu733AAKA5n4.png)](https://chromewebstore.google.com/detail/onyx-readwise-integration/cjgbhgadmoolcfponpofionanoamaooa)
+
+This is a Manifest v3 Chrome Extension with the ability to send highlights and notes from Onyx Boox exported text files to your Readwise account. Simply log into Readwise, export your notes from your Boox device, click the extension icon, and click the "Upload a .txt" button.
