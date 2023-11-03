@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Onyx Readwise Integration",
+  "description": "Export highlights and notes from Onyx Boox devices into Readwise",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup/popup.html",
+    "default_icon": "icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["*://*.readwise.io/*"],
+  "permissions": ["cookies"]
+}

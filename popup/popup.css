@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 80px;
+  width: 250px;
+}
+
+body {
+  height: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #191928;
+}
+
+button {
+  background-color: #282844;
+  color: white;
+  border: none;
+  padding: 1em 1.5em;
+  border-radius: 0.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.2ch;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #373761;
+}
+
+input {
+  display: none;
+}
